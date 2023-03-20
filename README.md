@@ -1,11 +1,3 @@
----
-editor_options:
-  markdown:
-    wrap: 72
-    layout: "fitColumns"
----
-
-
 # Readme
 
 This repo consists of my solution for the forecasting track of the M6 competition where I made the third place in Februrary 2022. **My final score was 0.15649 which is about 0.03% less good than the first place.**
